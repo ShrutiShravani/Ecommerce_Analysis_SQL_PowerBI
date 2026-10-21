@@ -1,10 +1,6 @@
 # Ecommerce_Analysis_SQL_PowerBI
 An end-to-end e-commerce analytics project using Google BigQuery, SQL, and Power BI to analyze product performance, customer journeys, acquisition sources, purchase revenue, and device-level behavior.
 
-# E-commerce Analytics Copilot
-
-An end-to-end e-commerce analytics project using **Google BigQuery, SQL, and Power BI** to analyze product performance, customer journeys, acquisition sources, purchase revenue, and device-level behavior.
-
 The project uses the Google Analytics 4 (GA4) public e-commerce demo dataset to explore customer interactions from product views to purchases, identify performance patterns, and support data-driven business decisions.
 
 **Key areas of analysis**
